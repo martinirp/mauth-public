@@ -1,5 +1,5 @@
 # Chaves de acesso autorizadas para o M·Auth
 # Adicione um UUID (Chave de Hardware) por linha. Linhas iniciadas com '#' são ignoradas.
 
-B4357366-B0AB-305A-E3A0-CC28AA89EB2C
+
 
