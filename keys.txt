@@ -2,3 +2,4 @@
 # Adicione um UUID (Chave de Hardware) por linha. Linhas iniciadas com '#' são ignoradas.
 
 
+F60AC7D1-EAD3-77E2-E60F-BCFCE78A91BA
